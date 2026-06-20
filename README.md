@@ -2,9 +2,9 @@
 
 # 안녕하세요, 저는 최지용입니다 👋
 
-**AI Researcher · Generative AI · Computer Vision · VLM**
+**AI Researcher · Generative AI · Computer Vision · VLM · Spatial Reasoning**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Computer+Vision+%7C+VLM;Claude+API+%7C+FLUX.1+%7C+LangChain;Building+AI+Pipelines+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Computer+Vision+%7C+VLM;Spatial+Reasoning+%7C+Multimodal+AI;Claude+API+%7C+FLUX.1+%7C+LangChain)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,8 +13,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **한성대학교** AI응용학과
-- 🔬 **연구 분야**: 생성형 AI (Generative AI) · 컴퓨터 비전 (Computer Vision) · VLM (Vision Language Model)
-- 🤖 **관심사**: 멀티모달 AI · 텍스트-이미지 파이프라인 · RAG 시스템 · LLM 에이전트 · VLM 비교 분석
+- 🔬 **연구 분야**: 생성형 AI (Generative AI) · 컴퓨터 비전 (Computer Vision) · VLM (Vision Language Model) · 공간 추론 (Spatial Reasoning)
+- 🤖 **관심사**: 멀티모달 AI · 텍스트-이미지 파이프라인 · RAG 시스템 · LLM 에이전트 · VLM 비교 분석 · 공간 관계 이해
 - 📍 Seoul, South Korea
 - 📫 **Contact**: [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
 
@@ -82,6 +82,7 @@
 ## 🌱 Currently Learning
 
 - 👁 **VLM 연구** — BLIP-2, LLaVA, IDEFICS 등 오픈소스 VLM 비교 분석
+- 🧭 **Spatial Reasoning** — VLM의 공간 관계 이해 및 3D 공간 추론 능력 연구
 - 🔍 **RAG 고도화** — 다양한 문서 형식 지원 및 벡터 DB 최적화
 - 🎨 **멀티모달 파이프라인** — 이미지-텍스트-이미지 순환 구조 연구
 - 🤖 **LLM 에이전트** — 자율적 도구 사용 및 멀티 에이전트 시스템
