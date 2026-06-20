@@ -49,22 +49,22 @@
 ## 🚀 Current Projects
 
 > **생성형 AI + 비전 AI + VLM 파이프라인**을 GPU 서버 환경에서 구축하고 있습니다.
-> 최근에는 VLM의 공간 추론 능력 평가와 Spatial Reasoning post-training 방향을 연구하고 있습니다.
+> 최근에는 VLM의 공간 추론 능력 평가와 benchmark 기반 비교 분석을 진행하고 있습니다.
 
 **🧭 Spatial Reasoning**
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [spatial-reasoning-experiments](https://github.com/YONGJI-04/spatial-reasoning-experiments) | Qwen2.5-VL / SpatialLadder 기반 VLM 공간 추론 평가 및 RL reward 설계 노트 | VLM + Spatial Reasoning + GRPO |
+| [spatial-reasoning-experiments](https://github.com/YONGJI-04/spatial-reasoning-experiments) | VLM 공간 추론 벤치마크 평가 및 결과 정리 | VLM + Spatial Reasoning |
 
 
 
 ### 🔬 Research Snapshot
 
-- **Topic**: VLM Spatial Reasoning and post-training reward design
-- **Current baseline**: Qwen2.5-VL-3B-Instruct on CV-Bench, ViewSpatial-Bench, SPAR-Bench, SPBench-SI, SPBench-MV
+- **Topic**: VLM Spatial Reasoning evaluation
+- **Current baseline**: Qwen2.5-VL-3B-Instruct on multiple spatial reasoning benchmarks
 - **Current comparison**: SpatialLadder-3B evaluation with the same benchmark protocol
-- **Next direction**: correctness-aware think-token reward and dense spatial reward for RL fine-tuning
+- **Focus**: reproducible evaluation, result tracking, and benchmark-level analysis
 
 **👁 Vision & Generative AI**
 
@@ -106,7 +106,6 @@
 
 - 👁 **VLM 연구** — Qwen2.5-VL, LLaVA, IDEFICS 등 오픈소스 VLM 비교 분석
 - 🧭 **Spatial Reasoning** — VLM의 공간 관계 이해, 3D 공간 추론, benchmark evaluation 연구
-- 🧪 **Post-training** — GRPO 기반 reward 설계와 think-token reasoning 실험
 - 🔍 **RAG 고도화** — 다양한 문서 형식 지원 및 벡터 DB 최적화
 - 🎨 **멀티모달 파이프라인** — 이미지-텍스트-이미지 순환 구조 연구
 - 🤖 **LLM 에이전트** — 자율적 도구 사용 및 멀티 에이전트 시스템
