@@ -1,8 +1,13 @@
 <div align="center">
 
-# 최지용 | AI Researcher & Engineer
+# 안녕하세요, 최지용입니다 👋
 
 **Vision-Language Models · Spatial Reasoning · Generative AI Systems**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 [Email](mailto:yongyong@hansung.ac.kr) · [Gmail](mailto:jxy040108@gmail.com) · Seoul, South Korea
 
@@ -12,9 +17,9 @@
 
 ## About
 
-한성대학교 AI응용학과에서 Vision-Language Model과 생성형 AI 시스템을 중심으로 연구하고 있습니다. 최근에는 VLM의 공간 추론 능력을 정량적으로 평가하고, 벤치마크 기반으로 모델의 한계와 개선 가능성을 분석하는 데 집중하고 있습니다.
+한성대학교 AI응용학과에서 Vision-Language Model과 생성형 AI 시스템을 중심으로 공부하고 연구하고 있습니다. 최근에는 VLM의 공간 추론 능력을 정량적으로 평가하고, 벤치마크 기반으로 모델의 한계와 개선 가능성을 분석하는 데 집중하고 있습니다.
 
-관심의 중심은 넓은 기술 나열보다 **재현 가능한 실험**, **명확한 평가 프로토콜**, **실제로 동작하는 AI 파이프라인**에 있습니다.
+밝고 실험적인 태도로 AI 프로젝트를 만들지만, 결과물은 **재현 가능한 실험**, **명확한 평가 프로토콜**, **실제로 동작하는 파이프라인**으로 남기려 합니다.
 
 ---
 
@@ -39,11 +44,11 @@
 
 ## Technical Stack
 
-**Research & AI**  
-Python · PyTorch · Hugging Face · Claude API · LangChain · ChromaDB
+**AI / Research**  
+Python · PyTorch · Hugging Face · Claude API · LangChain · ChromaDB · FLUX.1
 
-**Backend & Tools**  
-FastAPI · Git · GitHub · RunPod · VS Code · PyCharm
+**Backend / Tools**  
+FastAPI · Git · GitHub · RunPod · VS Code · PyCharm · Cursor
 
 ---
 
@@ -59,7 +64,7 @@ FastAPI · Git · GitHub · RunPod · VS Code · PyCharm
 
 <div align="center">
 
-**Open to research collaboration and AI engineering projects.**
+**협업, 연구 이야기, AI 프로젝트 제안을 환영합니다.**
 
 [Email](mailto:yongyong@hansung.ac.kr) · [Gmail](mailto:jxy040108@gmail.com)
 
