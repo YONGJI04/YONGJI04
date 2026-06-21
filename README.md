@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Computer+Vision+%7C+Generative+AI;Vision-Language+Models+%7C+Multimodal+Systems;AI+Pipelines+%7C+Reproducible+Experiments)](https://git.io/typing-svg)
 
+**Contact** · [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
+
 </div>
 
 ---
@@ -14,7 +16,7 @@
 
 - 🎓 **Hansung University, Department of Applied AI**
 - 🔬 **Research Areas**: Computer Vision · Generative AI
-- 🤖 **Interests**: Vision-Language Models · Multimodal AI · Text-to-Image · Spatial Reasoning Evaluation
+- 🤖 **Interests**: Vision-Language Models · Multimodal AI · Text-to-Image Pipelines · Spatial Reasoning
 - 📍 Seoul, South Korea
 
 ---
@@ -45,7 +47,7 @@
 | Area | What I Work On |
 | --- | --- |
 | **Computer Vision** | Vision-language model evaluation, visual reasoning, spatial understanding |
-| **Generative AI** | Text-to-image pipelines, multimodal generation, AI application systems |
+| **Generative AI** | Text-to-image pipelines, multimodal generation, AI application development |
 
 ---
 
@@ -105,14 +107,3 @@
 - VLM benchmark evaluation and failure analysis
 - Text-to-image and image-to-text pipeline experiments
 - Reproducible experiment summaries and result tracking
-
----
-
-<div align="center">
-
-### 📬 협업 및 연구 문의 환영합니다
-
-[![yongyong@hansung.ac.kr](https://img.shields.io/badge/yongyong@hansung.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
-[![jxy040108@gmail.com](https://img.shields.io/badge/jxy040108@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
-
-</div>
