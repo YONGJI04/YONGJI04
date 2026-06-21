@@ -26,9 +26,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
 ![FLUX.1](https://img.shields.io/badge/FLUX.1-000000?style=for-the-badge&logoColor=white)
 
 ### Backend / Infrastructure
@@ -37,7 +37,6 @@
 ![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -45,8 +44,8 @@
 
 | Area | What I Work On |
 | --- | --- |
-| **Computer Vision** | Vision-language model evaluation, visual reasoning, spatial understanding |
-| **Generative AI** | Text-to-image pipelines, multimodal generation, AI application development |
+| **Computer Vision** | Vision-language model evaluation, visual reasoning, spatial understanding, benchmark analysis |
+| **Generative AI** | Text-to-image pipelines, multimodal generation, retrieval-augmented AI applications |
 
 ---
 
@@ -105,4 +104,4 @@
 
 - VLM benchmark evaluation and failure analysis
 - Text-to-image and image-to-text pipeline experiments
-- Reproducible experiment summaries and result tracking
+- Reproducible experiment summaries, result tracking, and model comparison
