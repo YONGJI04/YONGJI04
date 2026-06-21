@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Computer+Vision+%7C+Generative+AI;Vision-Language+Models+%7C+Multimodal+Systems;AI+Pipelines+%7C+Reproducible+Experiments)](https://git.io/typing-svg)
 
-**Contact** · [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
-
 </div>
 
 ---
@@ -18,6 +16,7 @@
 - 🔬 **Research Areas**: Computer Vision · Generative AI
 - 🤖 **Interests**: Vision-Language Models · Multimodal AI · Text-to-Image Pipelines · Spatial Reasoning
 - 📍 Seoul, South Korea
+- 📫 **Contact**: [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
 
 ---
 
