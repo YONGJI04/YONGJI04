@@ -17,9 +17,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **한성대학교 AI응용학과**
-- 🔬 **연구 분야**: 컴퓨터 비전 (Computer Vision) · 생성형 AI (Generative AI) · VLM (Vision-Language Model) · 공간 추론 (Spatial Reasoning)
-- 🤖 **관심사**: 멀티모달 AI · VLM 평가 · 텍스트-이미지 파이프라인 · RAG 시스템
-- 🧭 **Focus**: 재현 가능한 실험, 명확한 평가 프로토콜, 실제로 동작하는 AI 파이프라인
+- 🔬 **Research Areas**: Computer Vision · Generative AI · Vision-Language Models · Spatial Reasoning
+- 🤖 **Interests**: Multimodal AI · VLM Evaluation · Text-to-Image Pipelines · RAG Systems
 - 📍 Seoul, South Korea
 - 📫 **Contact**: [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
 
