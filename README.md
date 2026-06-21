@@ -6,10 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Computer+Vision+%7C+Generative+AI;Vision-Language+Models+%7C+Multimodal+Systems;AI+Pipelines+%7C+Reproducible+Experiments)](https://git.io/typing-svg)
 
-[![yongyong@hansung.ac.kr](https://img.shields.io/badge/yongyong@hansung.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
-[![jxy040108@gmail.com](https://img.shields.io/badge/jxy040108@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
-[![location](https://img.shields.io/badge/location-Seoul%2C%20South%20Korea-111827?style=flat-square&logo=googlemaps&logoColor=white)](#)
-
 </div>
 
 ---
@@ -18,9 +14,8 @@
 
 - 🎓 **Hansung University, Department of Applied AI**
 - 🔬 **Research Areas**: Computer Vision · Generative AI
-- 🤖 **Interests**: Vision-Language Models · Multimodal AI · Text-to-Image Pipelines · Spatial Reasoning Evaluation
+- 🤖 **Interests**: Vision-Language Models · Multimodal AI · Text-to-Image · Spatial Reasoning Evaluation
 - 📍 Seoul, South Korea
-- 📫 **Contact**: [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
 
 ---
 
@@ -105,7 +100,6 @@
 
 ## 📌 Current Research Snapshot
 
-> **Computer Vision & Generative AI**<br>
 > Vision-language model의 시각적 추론 능력을 평가하고, 텍스트-이미지 생성 파이프라인과 멀티모달 AI 시스템을 실험하고 있습니다.
 
 - VLM benchmark evaluation and failure analysis
