@@ -2,9 +2,9 @@
 
 # 안녕하세요, 저는 최지용입니다 👋
 
-**AI Researcher · Vision-Language Models · Spatial Reasoning · Generative AI**
+**Computer Vision · Generative AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Vision-Language+Models+%7C+Spatial+Reasoning;Generative+AI+Systems+%7C+Multimodal+AI;Reproducible+Evaluation+%7C+AI+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Computer+Vision+%7C+Generative+AI;Vision-Language+Models+%7C+Multimodal+Systems;AI+Pipelines+%7C+Reproducible+Experiments)](https://git.io/typing-svg)
 
 [![yongyong@hansung.ac.kr](https://img.shields.io/badge/yongyong@hansung.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
 [![jxy040108@gmail.com](https://img.shields.io/badge/jxy040108@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
@@ -17,8 +17,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Hansung University, Department of Applied AI**
-- 🔬 **Research Areas**: Computer Vision · Generative AI · Vision-Language Models · Spatial Reasoning
-- 🤖 **Interests**: Multimodal AI · VLM Evaluation · Text-to-Image Pipelines · RAG Systems
+- 🔬 **Research Areas**: Computer Vision · Generative AI
+- 🤖 **Interests**: Vision-Language Models · Multimodal AI · Text-to-Image Pipelines · Spatial Reasoning Evaluation
 - 📍 Seoul, South Korea
 - 📫 **Contact**: [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
 
@@ -47,12 +47,10 @@
 
 ## 🔬 Research Focus
 
-| Area                         | What I Work On                                                 |
-| ---------------------------- | -------------------------------------------------------------- |
-| **Vision-Language Models**   | VLM benchmark evaluation, model comparison, output analysis    |
-| **Spatial Reasoning**        | spatial relation understanding, visual reasoning, failure analysis |
-| **Generative AI Systems**    | Claude, FLUX.1, LangChain 기반 멀티모달 파이프라인 구축       |
-| **Reproducible Experiments** | 실험 로그, 결과표, benchmark protocol 정리                    |
+| Area | What I Work On |
+| --- | --- |
+| **Computer Vision** | Vision-language model evaluation, visual reasoning, spatial understanding |
+| **Generative AI** | Text-to-image pipelines, multimodal generation, AI application systems |
 
 ---
 
@@ -65,26 +63,17 @@
     <th>Stack</th>
   </tr>
   <tr>
-    <td colspan="3"><strong>🧭 Spatial Reasoning</strong></td>
+    <td colspan="3"><strong>👁 Computer Vision</strong></td>
   </tr>
   <tr>
     <td><a href="https://github.com/YONGJI-04/spatial-reasoning-experiments">spatial-reasoning-experiments</a></td>
     <td>VLM 공간 추론 벤치마크 평가 및 공개 결과 정리</td>
     <td>Python · VLM Evaluation</td>
   </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td colspan="3"><strong>👁 Vision & Generative AI</strong></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/YONGJI-04/vlm-pipeline">vlm-pipeline</a></td>
     <td>Vision-language 모델 비교 및 이미지 분석 파이프라인</td>
     <td>Claude Vision · BLIP-2 · LLaVA</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YONGJI-04/Text-to-Image-API">Text-to-Image-API</a></td>
-    <td>텍스트 기반 이미지 생성 API 파이프라인</td>
-    <td>Claude API · FLUX.1</td>
   </tr>
   <tr>
     <td><a href="https://github.com/YONGJI-04/image-to-text">image-to-text</a></td>
@@ -93,7 +82,12 @@
   </tr>
   <tr><td colspan="3"><br></td></tr>
   <tr>
-    <td colspan="3"><strong>🤖 LLM & RAG</strong></td>
+    <td colspan="3"><strong>🎨 Generative AI</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YONGJI-04/Text-to-Image-API">Text-to-Image-API</a></td>
+    <td>텍스트 기반 이미지 생성 API 파이프라인</td>
+    <td>Claude API · FLUX.1</td>
   </tr>
   <tr>
     <td><a href="https://github.com/YONGJI-04/rag-qa">rag-qa</a></td>
@@ -111,12 +105,12 @@
 
 ## 📌 Current Research Snapshot
 
-> **VLM Spatial Reasoning Evaluation**  
-> Qwen2.5-VL-3B-Instruct와 SpatialLadder-3B를 동일한 benchmark protocol에서 비교하며, 공간 추론 문제에서 모델이 어떤 패턴으로 실패하는지 분석하고 있습니다.
+> **Computer Vision & Generative AI**<br>
+> Vision-language model의 시각적 추론 능력을 평가하고, 텍스트-이미지 생성 파이프라인과 멀티모달 AI 시스템을 실험하고 있습니다.
 
-- Benchmark-level performance tracking
-- Output format health checking
-- Reproducible public result summaries
+- VLM benchmark evaluation and failure analysis
+- Text-to-image and image-to-text pipeline experiments
+- Reproducible experiment summaries and result tracking
 
 ---
 
