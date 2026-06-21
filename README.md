@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 <table>
   <tr>
