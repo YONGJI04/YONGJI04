@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Vision-Language+Models+%7C+Spatial+Reasoning;Generative+AI+Systems+%7C+Multimodal+AI;Reproducible+Evaluation+%7C+AI+Pipelines)](https://git.io/typing-svg)
 
-[![email](https://img.shields.io/badge/email-yongyong@hansung.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
-[![gmail](https://img.shields.io/badge/gmail-jxy040108@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
+[![yongyong@hansung.ac.kr](https://img.shields.io/badge/yongyong@hansung.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
+[![jxy040108@gmail.com](https://img.shields.io/badge/jxy040108@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
 [![location](https://img.shields.io/badge/location-Seoul%2C%20South%20Korea-111827?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **한성대학교 AI응용학과**
+- 🎓 **Hansung University, Department of Applied AI**
 - 🔬 **Research Areas**: Computer Vision · Generative AI · Vision-Language Models · Spatial Reasoning
 - 🤖 **Interests**: Multimodal AI · VLM Evaluation · Text-to-Image Pipelines · RAG Systems
 - 📍 Seoul, South Korea
@@ -31,7 +31,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Claude API](https://img.shields.io/badge/Claude_API-D4A27F?style=for-the-badge&logo=anthropic&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
 ![FLUX.1](https://img.shields.io/badge/FLUX.1-000000?style=for-the-badge&logoColor=white)
@@ -43,8 +42,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
@@ -127,7 +124,7 @@
 
 ### 📬 협업 및 연구 문의 환영합니다
 
-[![email](https://img.shields.io/badge/email-yongyong@hansung.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
-[![gmail](https://img.shields.io/badge/gmail-jxy040108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
+[![yongyong@hansung.ac.kr](https://img.shields.io/badge/yongyong@hansung.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
+[![jxy040108@gmail.com](https://img.shields.io/badge/jxy040108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
 
 </div>
