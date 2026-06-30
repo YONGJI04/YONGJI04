@@ -16,6 +16,7 @@
 - 🔬 **Research Areas**: Computer Vision · Generative AI
 - 🤖 **Interests**: Vision-Language Models · Multimodal AI · Text-to-Image Pipelines · Spatial Reasoning
 - 📍 Seoul, South Korea
+- 🌐 **Portfolio**: [yongji04.github.io](https://yongji04.github.io)
 - 📫 **Contact**: [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
 
 ---
