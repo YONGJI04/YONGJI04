@@ -10,7 +10,7 @@
 
 - Hansung University, Department of Applied AI
 - Research Areas: Computer Vision · Generative AI
-- Interests: Vision-Language Models · Multimodal AI · Spatial Reasoning
+- Interests: Vision-Language Models · Multimodal AI · Generative AI · Spatial Reasoning
 - 📍 Seoul, South Korea
 
 ## Awards
