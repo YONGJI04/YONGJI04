@@ -1,108 +1,36 @@
 <div align="center">
 
-# 안녕하세요, 저는 최지용입니다 👋
+# 안녕하세요, 최지용입니다 👋
 
 **Computer Vision · Generative AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Computer+Vision+%7C+Generative+AI;Vision-Language+Models+%7C+Multimodal+Systems;AI+Pipelines+%7C+Reproducible+Experiments)](https://git.io/typing-svg)
-
 </div>
 
----
+## About
 
-## 🧑‍💻 About Me
-
-- 🎓 **Hansung University, Department of Applied AI**
-- 🔬 **Research Areas**: Computer Vision · Generative AI
-- 🤖 **Interests**: Vision-Language Models · Multimodal AI · Text-to-Image Pipelines · Spatial Reasoning
+- Hansung University, Department of Applied AI
+- Research Areas: Computer Vision · Generative AI
+- Interests: Vision-Language Models · Multimodal AI · Spatial Reasoning
 - 📍 Seoul, South Korea
-- 🌐 **Portfolio**: [yongji04.github.io](https://yongji04.github.io)
-- 📫 **Contact**: [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
 
----
+## Awards
 
-## 🛠 Tech Stack
+| Year | Result | Detail |
+| :---: | :--- | :--- |
+| 2026 | **19 / 261팀** | 2026 SW중심대학 디지털 경진대회 AI부문 — AI Agent Behavior Inference (Macro F1 0.7946) |
 
-### AI / Research
+## Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-2B6CB0?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FLUX.1](https://img.shields.io/badge/FLUX.1-000000?style=for-the-badge&logoColor=white)
-
-### Backend / Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🔬 Research Focus
-
-| Area | What I Work On |
+| Project | Description |
 | --- | --- |
-| **Computer Vision** | Vision-language model evaluation, visual reasoning, spatial understanding, benchmark analysis |
-| **Generative AI** | Text-to-image pipelines, multimodal generation, retrieval-augmented AI applications |
+| [2026-sw-univ-competition-ai](https://github.com/YONGJI04/2026-sw-univ-competition-ai) | AI 에이전트 행동 예측 — 19/261등 |
+| [spatial-reasoning-vlm](https://github.com/YONGJI04/spatial-reasoning-vlm) | VLM 공간 추론 벤치마크 |
+| [vlm-pipeline](https://github.com/YONGJI04/vlm-pipeline) | Vision-language 모델 비교 파이프라인 |
+| [rag-qa](https://github.com/YONGJI04/rag-qa) | 문서 기반 RAG Q&A |
+| [langchain-agent](https://github.com/YONGJI04/langchain-agent) | LangChain 기반 AI 에이전트 |
+| [Slack-bot](https://github.com/YONGJI04/Slack-bot) | Claude 기반 한국어 Slack 챗봇 |
 
----
+## Contact
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td colspan="3"><strong>👁 Computer Vision</strong></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YONGJI-04/spatial-reasoning-experiments">spatial-reasoning-experiments</a></td>
-    <td>VLM 공간 추론 벤치마크 평가 및 공개 결과 정리</td>
-    <td>Python · VLM Evaluation</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YONGJI-04/vlm-pipeline">vlm-pipeline</a></td>
-    <td>Vision-language 모델 비교 및 이미지 분석 파이프라인</td>
-    <td>Claude Vision · BLIP-2 · LLaVA</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YONGJI-04/image-to-text">image-to-text</a></td>
-    <td>이미지 내용을 텍스트로 분석하는 실험 프로젝트</td>
-    <td>Claude Vision</td>
-  </tr>
-  <tr><td colspan="3"><br></td></tr>
-  <tr>
-    <td colspan="3"><strong>🎨 Generative AI</strong></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YONGJI-04/Text-to-Image-API">Text-to-Image-API</a></td>
-    <td>텍스트 기반 이미지 생성 API 파이프라인</td>
-    <td>Claude API · FLUX.1</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YONGJI-04/rag-qa">rag-qa</a></td>
-    <td>문서 기반 질의응답을 위한 RAG 시스템</td>
-    <td>LangChain · ChromaDB · Claude</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YONGJI-04/langchain-agent">langchain-agent</a></td>
-    <td>LangChain 기반 AI 에이전트 실험</td>
-    <td>LangChain · Claude</td>
-  </tr>
-</table>
-
----
-
-## 📌 Current Research Snapshot
-
-> Vision-language model의 시각적 추론 능력을 평가하고, 텍스트-이미지 생성 파이프라인과 멀티모달 AI 시스템을 실험하고 있습니다.
-
-- VLM benchmark evaluation and failure analysis
-- Text-to-image and image-to-text pipeline experiments
-- Reproducible experiment summaries, result tracking, and model comparison
+- 📧 yongyong@hansung.ac.kr · jxy040108@gmail.com
+- 🌐 [yongji04.github.io](https://yongji04.github.io)
