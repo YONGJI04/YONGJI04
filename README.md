@@ -16,7 +16,7 @@
 
 | Year | Result | Detail |
 | :---: | :--- | :--- |
-| 2026 | **19 / 261팀** | 2026 SW중심대학 디지털 경진대회 AI부문 — AI Agent Behavior Inference (Macro F1 0.7946) |
+| 2026 | **Top 7%** | AI Agent Behavior Inference — 2026 SW중심대학 디지털 경진대회 AI부문 (19/261팀, Macro F1 0.7946) |
 
 ## Projects
 
