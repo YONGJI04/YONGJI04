@@ -16,12 +16,14 @@
 
 | Year | Result | Detail |
 | :---: | :--- | :--- |
+| 2026 | **3rd Place** | LG Aimers 9기 — DACON 236743 (3/1,087팀, 1,217.24점) |
 | 2026 | **Top 7%** | AI Agent Behavior Inference — 2026 SW중심대학 디지털 경진대회 AI부문 (19/261팀, Macro F1 0.7946) |
 
 ## Projects
 
 | Project | Description |
 | --- | --- |
+| [lg-aimers-9-dacon-236743](https://github.com/YONGJI04/lg-aimers-9-dacon-236743) | LG Aimers 9기 투구 제구 예측 — 3/1,087팀 |
 | [2026-sw-univ-competition-ai](https://github.com/YONGJI04/2026-sw-univ-competition-ai) | AI 에이전트 행동 예측 — 19/261등 |
 | [spatial-reasoning-vlm](https://github.com/YONGJI04/spatial-reasoning-vlm) | VLM 공간 추론 벤치마크 |
 | [vlm-pipeline](https://github.com/YONGJI04/vlm-pipeline) | Vision-language 모델 비교 파이프라인 |
