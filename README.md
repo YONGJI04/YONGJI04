@@ -30,10 +30,6 @@
 | [lg-aimers-9-dacon-236743](https://github.com/YONGJI04/lg-aimers-9-dacon-236743) | LG Aimers 9기 투구 제구 예측 — 3/1,087팀 |
 | [2026-sw-univ-competition-ai](https://github.com/YONGJI04/2026-sw-univ-competition-ai) | AI 에이전트 행동 예측 — 19/261등 |
 | [spatial-reasoning-vlm](https://github.com/YONGJI04/spatial-reasoning-vlm) | VLM 공간 추론 벤치마크 |
-| [vlm-pipeline](https://github.com/YONGJI04/vlm-pipeline) | Vision-language 모델 비교 파이프라인 |
-| [rag-qa](https://github.com/YONGJI04/rag-qa) | 문서 기반 RAG Q&A |
-| [langchain-agent](https://github.com/YONGJI04/langchain-agent) | LangChain 기반 AI 에이전트 |
-| [Slack-bot](https://github.com/YONGJI04/Slack-bot) | Claude 기반 한국어 Slack 챗봇 |
 
 ## Contact
 
