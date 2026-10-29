@@ -1,37 +1,23 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="CHOI JIYONG — Computer Vision · 3D Vision · Generative AI" src="assets/banner-light.svg" width="100%">
+</picture>
 
-# 안녕하세요, 최지용입니다 👋
+<p align="center">
+  <a href="https://yongji04.github.io">Website</a> &nbsp;·&nbsp;
+  <a href="https://yongji04.github.io/assets/files/curriculum_vitae.pdf">CV</a> &nbsp;·&nbsp;
+  <a href="mailto:jxy040108@gmail.com">jxy040108@gmail.com</a>
+</p>
 
-**Computer Vision · Generative AI**
+### Now
 
-</div>
+- **Undergraduate Intern**, Visual Intelligence Lab, Hansung University — 3D object reconstruction
+- **R&D Intern**, Futurex AI Business Division — bin-picking vision (Nov.–Dec. 2026)
 
-## About
+### Awards
 
-- Hansung University, Department of Applied AI
-- Research Areas: Computer Vision · Generative AI
-- 📍 Seoul, South Korea
-
-## Awards
-
-| Year | Result | Detail |
-| :---: | :--- | :--- |
-| 2026 | **3rd Place** | 국립공원 산사태 붕괴지 탐지 — 2026 국립공원 위성 모니터링 AI 챌린지 (AIFactory) |
-| 2026 | **3rd Place** | 국립공원 침엽수 고사목 탐지 — 2026 국립공원 위성 모니터링 AI 챌린지 (AIFactory) |
-| 2026 | **3rd Place** | LG Aimers 9기 — DACON 236743 (3/1,087팀, 1,217.24점) |
-| 2026 | **Top 7%** | AI Agent Behavior Inference — 2026 SW중심대학 디지털 경진대회 AI부문 (19/261팀, Macro F1 0.7946) |
-
-## Projects
-
-| Project | Description |
-| --- | --- |
-| [knps-ai-challenge-9305-landslide](https://github.com/YONGJI04/knps-ai-challenge-9305-landslide) | 국립공원 산사태 붕괴지 탐지 — 3위 |
-| [knps-ai-challenge-9304-dead-conifer](https://github.com/YONGJI04/knps-ai-challenge-9304-dead-conifer) | 국립공원 침엽수 고사목 탐지 — 3위 |
-| [lg-aimers-9-dacon-236743](https://github.com/YONGJI04/lg-aimers-9-dacon-236743) | LG Aimers 9기 투구 제구 예측 — 3/1,087팀 |
-| [2026-sw-univ-competition-ai](https://github.com/YONGJI04/2026-sw-univ-competition-ai) | AI 에이전트 행동 예측 — 19/261등 |
-| [spatial-reasoning-vlm](https://github.com/YONGJI04/spatial-reasoning-vlm) | VLM 공간 추론 벤치마크 |
-
-## Contact
-
-- 📧 yongyong@hansung.ac.kr · jxy040108@gmail.com
-- 🌐 [yongji04.github.io](https://yongji04.github.io)
+- **1st Place** · Synthetic Microstructure Hardness Prediction, DAKER AI Hackathon (DACON, 2026)
+- **3rd Place** · Landslide Scar Detection, National Park Satellite Monitoring AI Challenge (AIFactory, 2026)
+- **3rd Place** · Dead Conifer Detection, National Park Satellite Monitoring AI Challenge (AIFactory, 2026)
+- **3rd Place** (3 / 1,087 teams) · LG Aimers 9th Hackathon (DACON, 2026)
+- **Top 7%** · AI Agent Behavior Inference, SW-Centered University Digital Competition (DACON, 2026)
