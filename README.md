@@ -12,4 +12,4 @@
 - **1st Place** · Synthetic Microstructure Hardness Prediction, DAKER AI Hackathon (DACON, 2026)
 - **3rd Place** · Landslide Scar Detection, National Park Satellite Monitoring AI Challenge (AIFactory, 2026)
 - **3rd Place** · Dead Conifer Detection, National Park Satellite Monitoring AI Challenge (AIFactory, 2026)
-- **3rd Place** (3 / 1,087 teams) · LG Aimers 9th Hackathon (DACON, 2026)
+- **3rd Place** (3 / 1,087 teams) · LG Aimers 9th Online Hackathon (DACON, 2026)
