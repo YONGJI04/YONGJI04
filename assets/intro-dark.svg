@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-29T06:58:41.653308</dc:date>
+    <dc:date>2026-10-29T06:59:05.362938</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -33,11 +33,11 @@ z
    <g id="line2d_1">
     <path d="M 47.52 36 
 L 90.72 36 
-" clip-path="url(#p45b7d11293)" style="fill: none; stroke: #0f766e; stroke-width: 4; stroke-linecap: round"/>
+" clip-path="url(#pe0c12f2d55)" style="fill: none; stroke: #2dd4bf; stroke-width: 4; stroke-linecap: round"/>
    </g>
    <g id="text_1">
     <!-- CHOI JIYONG -->
-    <g style="fill: #1f2328" transform="translate(46.08 87.84) scale(0.5 -0.5)">
+    <g style="fill: #e6edf3" transform="translate(46.08 87.84) scale(0.5 -0.5)">
      <defs>
       <path id="Pretendard-Bold-29" d="M 3406 2950 
 L 4356 2950 
@@ -159,7 +159,7 @@ z
    </g>
    <g id="text_2">
     <!-- 최지용 -->
-    <g style="fill: #59636e" transform="translate(375.13125 86.4) scale(0.26 -0.26)">
+    <g style="fill: #9198a1" transform="translate(375.13125 86.4) scale(0.26 -0.26)">
      <defs>
       <path id="Pretendard-Medium-275c" d="M 2375 2094 
 L 1781 2094 
@@ -263,8 +263,8 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- Computer Vision -->
-    <g style="fill: #1f2328" transform="translate(47.52 128.16) scale(0.19 -0.19)">
+    <!-- Computer Vision  ·  Generative AI -->
+    <g style="fill: #e6edf3" transform="translate(47.52 128.16) scale(0.19 -0.19)">
      <defs>
       <path id="Pretendard-Regular-29" d="M 3588 3100 
 L 4150 3100 
@@ -462,28 +462,29 @@ L 969 0
 L 969 2038 
 z
 " transform="scale(0.015625)"/>
-     </defs>
-     <use xlink:href="#Pretendard-Regular-29"/>
-     <use xlink:href="#Pretendard-Regular-285" transform="translate(69.34375 0)"/>
-     <use xlink:href="#Pretendard-Regular-26f" transform="translate(126.078125 0)"/>
-     <use xlink:href="#Pretendard-Regular-2ab" transform="translate(209.484375 0)"/>
-     <use xlink:href="#Pretendard-Regular-2e8" transform="translate(267.390625 0)"/>
-     <use xlink:href="#Pretendard-Regular-2d3" transform="translate(322.671875 0)"/>
-     <use xlink:href="#Pretendard-Regular-1e9" transform="translate(356.125 0)"/>
-     <use xlink:href="#Pretendard-Regular-2b4" transform="translate(411.40625 0)"/>
-     <use xlink:href="#Pretendard-Regular-2" transform="translate(446.375 0)"/>
-     <use xlink:href="#Pretendard-Regular-120" transform="translate(471.46875 0)"/>
-     <use xlink:href="#Pretendard-Regular-23a" transform="translate(536.015625 0)"/>
-     <use xlink:href="#Pretendard-Regular-2c3" transform="translate(557.796875 0)"/>
-     <use xlink:href="#Pretendard-Regular-23a" transform="translate(607.40625 0)"/>
-     <use xlink:href="#Pretendard-Regular-285" transform="translate(629.1875 0)"/>
-     <use xlink:href="#Pretendard-Regular-276" transform="translate(685.921875 0)"/>
-    </g>
-   </g>
-   <g id="text_4">
-    <!-- Visual Intelligence Lab, Hansung University -->
-    <g style="fill: #59636e" transform="translate(47.52 155.52) scale(0.15 -0.15)">
-     <defs>
+      <path id="Pretendard-Regular-3362" d="M 813 1575 
+C 1031 1575 1213 1756 1213 1981 
+C 1213 2200 1031 2381 813 2381 
+C 594 2381 406 2200 413 1981 
+C 406 1756 594 1575 813 1575 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Regular-63" d="M 3588 3113 
+L 4169 3113 
+C 4000 3988 3263 4588 2306 4588 
+C 1144 4588 325 3694 325 2263 
+C 325 831 1138 -63 2344 -63 
+C 3419 -63 4194 656 4194 1781 
+L 4194 2269 
+L 2463 2269 
+L 2463 1775 
+L 3644 1775 
+C 3631 975 3109 463 2344 463 
+C 1506 463 869 1094 869 2263 
+C 869 3431 1506 4063 2306 4063 
+C 2950 4063 3394 3694 3588 3113 
+z
+" transform="scale(0.015625)"/>
       <path id="Pretendard-Regular-1a0" d="M 269 963 
 C 269 300 781 -81 1425 -81 
 C 2013 -81 2325 231 2438 463 
@@ -508,11 +509,32 @@ C 2463 806 2125 400 1519 400
 C 1106 400 806 581 806 938 
 z
 " transform="scale(0.015625)"/>
-      <path id="Pretendard-Regular-25d" d="M 969 4525 
-L 431 4525 
-L 431 0 
-L 969 0 
-L 969 4525 
+      <path id="Pretendard-Regular-328" d="M 3225 3394 
+L 2638 3394 
+L 1713 700 
+L 1675 700 
+L 750 3394 
+L 163 3394 
+L 1413 0 
+L 1969 0 
+L 3225 3394 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Regular-3" d="M 700 0 
+L 1156 1275 
+L 2975 1275 
+L 3425 0 
+L 4019 0 
+L 2363 4525 
+L 1769 4525 
+L 113 0 
+L 700 0 
+z
+M 1325 1769 
+L 2044 3794 
+L 2081 3794 
+L 2800 1769 
+L 1325 1769 
 z
 " transform="scale(0.015625)"/>
       <path id="Pretendard-Regular-76" d="M 1063 4525 
@@ -520,6 +542,53 @@ L 500 4525
 L 500 0 
 L 1063 0 
 L 1063 4525 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Pretendard-Regular-29"/>
+     <use xlink:href="#Pretendard-Regular-285" transform="translate(69.34375 0)"/>
+     <use xlink:href="#Pretendard-Regular-26f" transform="translate(126.078125 0)"/>
+     <use xlink:href="#Pretendard-Regular-2ab" transform="translate(209.484375 0)"/>
+     <use xlink:href="#Pretendard-Regular-2e8" transform="translate(267.390625 0)"/>
+     <use xlink:href="#Pretendard-Regular-2d3" transform="translate(322.671875 0)"/>
+     <use xlink:href="#Pretendard-Regular-1e9" transform="translate(356.125 0)"/>
+     <use xlink:href="#Pretendard-Regular-2b4" transform="translate(411.40625 0)"/>
+     <use xlink:href="#Pretendard-Regular-2" transform="translate(446.375 0)"/>
+     <use xlink:href="#Pretendard-Regular-120" transform="translate(471.46875 0)"/>
+     <use xlink:href="#Pretendard-Regular-23a" transform="translate(536.015625 0)"/>
+     <use xlink:href="#Pretendard-Regular-2c3" transform="translate(557.796875 0)"/>
+     <use xlink:href="#Pretendard-Regular-23a" transform="translate(607.40625 0)"/>
+     <use xlink:href="#Pretendard-Regular-285" transform="translate(629.1875 0)"/>
+     <use xlink:href="#Pretendard-Regular-276" transform="translate(685.921875 0)"/>
+     <use xlink:href="#Pretendard-Regular-2" transform="translate(741.59375 0)"/>
+     <use xlink:href="#Pretendard-Regular-2" transform="translate(766.6875 0)"/>
+     <use xlink:href="#Pretendard-Regular-3362" transform="translate(791.78125 0)"/>
+     <use xlink:href="#Pretendard-Regular-2" transform="translate(817.171875 0)"/>
+     <use xlink:href="#Pretendard-Regular-2" transform="translate(842.265625 0)"/>
+     <use xlink:href="#Pretendard-Regular-63" transform="translate(867.359375 0)"/>
+     <use xlink:href="#Pretendard-Regular-1e9" transform="translate(938.265625 0)"/>
+     <use xlink:href="#Pretendard-Regular-276" transform="translate(993.546875 0)"/>
+     <use xlink:href="#Pretendard-Regular-1e9" transform="translate(1049.21875 0)"/>
+     <use xlink:href="#Pretendard-Regular-2b4" transform="translate(1104.5 0)"/>
+     <use xlink:href="#Pretendard-Regular-1a0" transform="translate(1139.421875 0)"/>
+     <use xlink:href="#Pretendard-Regular-2d3" transform="translate(1192.9375 0)"/>
+     <use xlink:href="#Pretendard-Regular-23a" transform="translate(1226.921875 0)"/>
+     <use xlink:href="#Pretendard-Regular-328" transform="translate(1248.703125 0)"/>
+     <use xlink:href="#Pretendard-Regular-1e9" transform="translate(1299.6875 0)"/>
+     <use xlink:href="#Pretendard-Regular-2" transform="translate(1354.96875 0)"/>
+     <use xlink:href="#Pretendard-Regular-3" transform="translate(1380.0625 0)"/>
+     <use xlink:href="#Pretendard-Regular-76" transform="translate(1444.609375 0)"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- Visual Intelligence Lab, Hansung University -->
+    <g style="fill: #9198a1" transform="translate(47.52 155.52) scale(0.15 -0.15)">
+     <defs>
+      <path id="Pretendard-Regular-25d" d="M 969 4525 
+L 431 4525 
+L 431 0 
+L 969 0 
+L 969 4525 
 z
 " transform="scale(0.015625)"/>
       <path id="Pretendard-Regular-219" d="M 1806 -1344 
@@ -623,17 +692,6 @@ L 4025 4525
 L 3463 4525 
 z
 " transform="scale(0.015625)"/>
-      <path id="Pretendard-Regular-328" d="M 3225 3394 
-L 2638 3394 
-L 1713 700 
-L 1675 700 
-L 750 3394 
-L 163 3394 
-L 1413 0 
-L 1969 0 
-L 3225 3394 
-z
-" transform="scale(0.015625)"/>
       <path id="Pretendard-Regular-33a" d="M 775 -1275 
 C 1256 -1275 1588 -1019 1788 -488 
 L 3225 3394 
@@ -699,7 +757,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p45b7d11293">
+  <clipPath id="pe0c12f2d55">
    <rect x="0" y="0" width="921.6" height="216"/>
   </clipPath>
  </defs>
