@@ -5,7 +5,7 @@
 
 ### Now
 
-- **Undergraduate Intern**, Visual Intelligence Lab, Hansung University — 3D object reconstruction
+- **Undergraduate Intern**, Visual Intelligence Lab, Hansung University
 
 ### Awards
 
