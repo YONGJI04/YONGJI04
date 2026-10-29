@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="CHOI JIYONG — Computer Vision" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg">
+  <img alt="CHOI JIYONG — Computer Vision" src="assets/title-light.svg" width="100%">
 </picture>
 
 ### Now
