@@ -3,12 +3,6 @@
   <img alt="CHOI JIYONG — Computer Vision" src="assets/banner-light.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://yongji04.github.io">Website</a> &nbsp;·&nbsp;
-  <a href="https://yongji04.github.io/assets/files/curriculum_vitae.pdf">CV</a> &nbsp;·&nbsp;
-  <a href="mailto:jxy040108@gmail.com">jxy040108@gmail.com</a>
-</p>
-
 ### Now
 
 - **Undergraduate Intern**, Visual Intelligence Lab, Hansung University — 3D object reconstruction
