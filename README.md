@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="CHOI JIYONG — Computer Vision · 3D Vision · Generative AI" src="assets/banner-light.svg" width="100%">
+  <img alt="CHOI JIYONG — Computer Vision" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
