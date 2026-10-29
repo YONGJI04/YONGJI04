@@ -12,7 +12,6 @@
 ### Now
 
 - **Undergraduate Intern**, Visual Intelligence Lab, Hansung University — 3D object reconstruction
-- **R&D Intern**, Futurex AI Business Division — bin-picking vision (Nov.–Dec. 2026)
 
 ### Awards
 
